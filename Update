@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "title": "Update Available",
+  "message": "✨ New Version Release\n\n• Improved performance\n• Fixed bugs\n• Enhanced security\n• Smooth animations",
+  "image": "https://i.imgur.com/ghost.png",
+  "apk": "https://yourwebsite.com/app.apk",
+  "force": true
+}
